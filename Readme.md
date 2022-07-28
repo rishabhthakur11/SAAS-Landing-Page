@@ -38,6 +38,6 @@ This is the User-Interface of Landing page of a SAAS website designed fully with
 
 # Deployed Landing Page Link
 
-[SAAS Website Landing Page](https://saas-websiteui.netlify.app/)
+[SAAS Website Landing Page](https://saas-landing-page-xi.vercel.app)
 
 ---
