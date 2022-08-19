@@ -30,7 +30,8 @@ This is the User-Interface of Landing page of a SAAS website designed fully with
 
 # Landing Page Screenshot
 
-![](./assets/screencapture-127-0-0-1-5500-index-html-2022-07-28-18_22_36.png)
+<img width="1440" alt="Screenshot 2022-08-19 at 3 29 51 PM" src="https://user-images.githubusercontent.com/74073486/185595076-b0bd7a7a-747c-4fbc-a650-cd7f4f64d854.png">
+
 
 # Time Taken to complete
 
